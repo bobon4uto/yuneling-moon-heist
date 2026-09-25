@@ -8,6 +8,7 @@ I am allowed to use them as stated in the HimejoshiHeart license of 2026-08-31, 
 also yeah you can borrow the yunelings just credit me
 ```
 Where `me` stands for `HimejoshiHeart`  
+Where `you` stands for `bobon4uto`  
 license link: https://itch.io/post/17203531  
   
 the assets `./assets/spritesheets/pwn.png` and `./assets/spritesheets/yuneling.png` are used in this project with compliance to the HimejoshiHeart license of 2026-08-31.  
